@@ -1,0 +1,148 @@
+.translation-page-KE {
+  padding: 5rem 5rem;
+  max-width: 1400px;
+  margin: 0 auto;
+}
+
+.translation-page-KE h2 {
+  font-size: 1.8rem;
+  margin-bottom: 2rem;
+  text-align: center;
+}
+
+.translation-table-KE {
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+  margin-left: 9rem;
+}
+
+.translation-row-KE {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 13rem;
+  margin-left: 0px;
+}
+
+.translation-col-K {
+  flex: 5;               /* Let it take more space */
+  max-width: 100%; 
+  min-width: 370px;      /* Allow full width */
+  padding: 0rem;       /* Optional spacing inside */
+  box-sizing: border-box;
+  margin-left: 0px;
+}
+
+.translation-col-E {
+  flex: 15;               /* Takes up more horizontal space */
+  max-width: 100%;
+  min-width: 10px;       /* Removes width limitation */
+  padding-left: 0rem;    /* Optional: adds space from the image side */
+  margin-left: 7rem;
+  font-size: 0.99rem;
+   
+}
+
+.translation-col-KE h4 {
+  font-size: 1rem;
+  font-weight: 600;
+  margin-bottom: 0.5rem;
+  color: #666;
+}
+
+.translation-col-KE p {
+  font-size: 1rem;
+  line-height: 1.7;
+  color: #333;
+}
+strong {
+  font-size: 2.0rem;
+}
+
+.image-text-wrapper {
+  display: flex;
+  align-items: flex-start;
+  gap: 1rem;
+}
+
+.translation-image {
+  width: 600px;
+  height: auto;
+  border: 1px solid #ddd;        /* light border */
+  border-radius: 8px;            /* rounded corners */
+  padding: 6px;                  /* spacing inside border */
+  background-color: #f9f9f9;     /* subtle background */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);  /* soft shadow */
+}
+.translation-image2 {
+  width: 600px;
+  height: 450px;
+  border: 1px solid #ddd;        /* light border */
+  border-radius: 8px;            /* rounded corners */
+  padding: 6px;                  /* spacing inside border */
+  background-color: #f9f9f9;     /* subtle background */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);  /* soft shadow */
+}
+
+.translation-image3 {
+  width: 600px;
+  height: 550px;
+  border: 1px solid #ddd;        /* light border */
+  border-radius: 8px;            /* rounded corners */
+  padding: 6px;                  /* spacing inside border */
+  background-color: #f9f9f9;     /* subtle background */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);  /* soft shadow */
+}
+
+.translation-image-imf {
+  width: 600px;
+  height: 750px;
+  border: 1px solid #ddd;        /* light border */
+  border-radius: 8px;            /* rounded corners */
+  padding: 6px;                  /* spacing inside border */
+  background-color: #f9f9f9;     /* subtle background */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);  /* soft shadow */
+}
+
+.translation-image-cloud {
+  width: 600px;
+  height: 550px;
+  border: 1px solid #ddd;        /* light border */
+  border-radius: 8px;            /* rounded corners */
+  padding: 6px;                  /* spacing inside border */
+  background-color: #f9f9f9;     /* subtle background */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);  /* soft shadow */
+}
+.translation-image-cloud2 {
+  width: 600px;
+  height: 850px;
+  border: 1px solid #ddd;        /* light border */
+  border-radius: 8px;            /* rounded corners */
+  padding: 6px;                  /* spacing inside border */
+  background-color: #f9f9f9;     /* subtle background */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);  /* soft shadow */
+}
+.translation-image-sk {
+  width: 620px;
+  height: 800px;
+  border: 1px solid #ddd;        /* light border */
+  border-radius: 8px;            /* rounded corners */
+  padding: 6px;                  /* spacing inside border */
+  background-color: #f9f9f9;     /* subtle background */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);  /* soft shadow */
+}
+.translation-image-gal24 {
+  width: 620px;
+  height: 700px;
+  border: 1px solid #ddd;        /* light border */
+  border-radius: 8px;            /* rounded corners */
+  padding: 6px;                  /* spacing inside border */
+  background-color: #f9f9f9;     /* subtle background */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);  /* soft shadow */
+}
+.translation-col-imf {
+  font-size: 1rem;
+}
+
+
+

@@ -1,0 +1,45 @@
+.intro-section {
+  width: 100%;
+  background-color: #ffece1;
+  padding: 4rem 2rem;
+  box-sizing: border-box;
+  display: flex;
+  justify-content: center; /* ✅ Center the .intro-container horizontally */
+}
+
+.intro-container {
+  max-width: 1000px;
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10rem;
+  align-items: flex-start;
+  justify-content: center; /* Optional: adjust if text should not be centered */
+}
+
+.intro-image img {
+  width: 400px;
+  border-radius: 8px;
+}
+
+.intro-text {
+  flex: 1;
+  min-width: 300px;
+ 
+}
+
+.intro-text h1 {
+  font-size: 2rem;
+  margin-bottom: 1rem;
+}
+
+.intro-text p {
+  font-size: 1rem;
+  line-height: 1.6;
+  margin-bottom: 1rem;
+}
+
+.intro-text a {
+  color: #333;
+  text-decoration: underline;
+}

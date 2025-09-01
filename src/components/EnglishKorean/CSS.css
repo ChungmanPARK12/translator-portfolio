@@ -1,0 +1,76 @@
+.translation-page {
+  padding: 5rem 5rem;
+  max-width: 3000px;
+  margin: 0 auto;
+}
+
+.translation-page h2 {
+  font-size: 1.8rem;
+  margin-bottom: 2rem;
+  text-align: center;
+}
+
+.translation-table {
+  max-width: 0px;
+  margin: 0 auto;
+  margin-left: 26rem;
+}
+
+.translation-row {
+  display: flex;
+  justify-content: flex-start;   /* do NOT center yet */
+  align-items: flex-start;                      /* creates space between English and Korean */
+  margin-bottom: 3rem;
+}
+
+/* English column */
+.translation-col {
+  flex: 1;
+  min-width: 600px;
+  max-width: 100%;
+  margin-left: -4rem;
+  padding-right: 2rem;
+}
+
+/* Korean column */
+.translation-col2 {
+  flex: 1;
+  min-width: 570px;
+  max-width: 100%;
+  margin-left: 2rem;
+  padding-right: 2rem;
+}
+
+.translation-col h4 {
+  font-size: 1rem;
+  font-weight: 600;
+  margin-bottom: 0.5rem;
+  color: #666;
+}
+
+.translation-col p {
+  font-size: 1rem;
+  line-height: 1.7;
+  color: #333;
+}
+strong {
+  font-size: 1.5rem;
+}
+ /** For the empty section **/
+.translation-coming-soon {
+
+  padding: 1.5rem;
+  text-align: center;
+  color: #666;
+  font-style: italic;
+  font-size: 1rem;
+  background-color: #f9f9f9;
+  border-radius: 5px;
+  margin-top: 1rem;
+  margin-left: 150px;
+}
+
+.translation-coming-soon p {
+  margin: 0;
+}
+

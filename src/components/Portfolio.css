@@ -1,0 +1,126 @@
+.portfolio {
+  width: 100%;
+  padding: 4rem 0;
+  box-sizing: border-box;
+}
+
+.portfolio-container {
+  max-width: 1000px;
+  margin: 0 auto;
+  padding: 0 1rem;
+  box-sizing: border-box;
+}
+
+/* Title aligned with card section */
+.portfolio h2 {
+  margin-left: 280px;     /* shifts slightly right of sidebar */
+  font-size: 1.8rem;
+  margin-bottom: 1.5rem;
+}
+
+/* ✅ scroll wrapper = shows visible cards */
+.portfolio-scroll-wrapper {
+  position: relative;
+  width: 720px;                      /* 3 cards x 220 + 2 gaps (20px each) */
+  overflow-x: auto;
+  scroll-behavior: smooth;
+  margin: 0 auto;
+  padding-bottom: 0.5rem;
+}
+
+/* ✅ grid = entire horizontal scroll area */
+.portfolio-grid {
+  display: flex;
+  flex-wrap: nowrap;
+  gap: 28px;  /* spacing between cards */
+  padding-right: 1rem;
+}
+
+.portfolio-item {
+  flex: 0 0 180px;
+  background: white;
+  border: 1px solid #ddd;
+  padding: 1rem;
+  border-radius: 8px;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.05);
+    cursor: pointer; /* 👈 add this */
+}
+
+.portfolio-item:hover {
+  transform: translateY(-3px); /* optional hover effect */
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+/* === Portfolio2 styles to separate scroll === */
+.portfolio2-scroll-wrapper {
+  overflow-x: auto;
+  width: 720px;
+  margin: 0 auto;
+  scroll-behavior: smooth;
+  padding-bottom: 1rem;
+}
+
+.portfolio2-grid {
+  display: flex;
+  flex-wrap: nowrap;
+  gap: 28px;
+}
+
+.portfolio2-grid .portfolio2-item {
+  flex: 0 0 180px;
+  background: white;
+  border: 1px solid #ddd;
+  padding: 1rem;
+  border-radius: 8px;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.05);
+  cursor: pointer;
+}
+
+.portfolio2-item:hover {
+  transform: translateY(-3px); /* optional hover effect */
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+
+/* text styles */
+.subtitle {
+  font-size: 0.9rem;
+  color: gray;
+  margin-bottom: 0.5rem;
+}
+
+/* ✅ controls that wrap buttons and grid */
+.scroll-controls {
+  position: relative;
+  max-width: 1000px;
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding-left: 250px; /* match sidebar width */
+  
+}
+
+/* ✅ left/right arrow buttons */
+.scroll-button {
+  position: absolute;
+  background: transparent;
+  border: none;
+  font-size: 2rem;
+  cursor: pointer;
+  color: #555;
+  z-index: 2;
+  padding: 0.5rem;
+}
+
+.scroll-button.left {
+  left: 160px; /* aligned right of sidebar edge */
+}
+
+.scroll-button.right {
+  right: -90px;
+}
+
+.scroll-button:hover {
+  color: #000;
+}
