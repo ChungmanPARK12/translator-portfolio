@@ -15,6 +15,7 @@ import IdealCity from './components/EnglishKorean/IdealCity';
 import Material from './components/EnglishKorean/Material';
 import Mindset from './components/EnglishKorean/Mindset';
 import Plant from './components/EnglishKorean/PlantThermometer';
+import Polarbear from './components/EnglishKorean/Polarbear';
 import Romanian from './components/EnglishKorean/RomanianShip';
 import Stonehenge from './components/EnglishKorean/Stonehenge';
 import Thefuturework from './components/EnglishKorean/Thefuturework';
@@ -38,6 +39,7 @@ import Line from './components/KoreanEnglish/Line';
 import Robot from './components/KoreanEnglish/Robot';
 import Microsoft from './components/KoreanEnglish/Microsoft';
 import Samsung from './components/KoreanEnglish/Samsung';
+import Iphone from './components/KoreanEnglish/Iphone';
 import Apple from './components/KoreanEnglish/Apple';
 import Eu from './components/KoreanEnglish/Eu';
 import Insta from './components/KoreanEnglish/Insta';
@@ -105,8 +107,9 @@ function App() {
             <Route path="/english-korean/material-concrete" element={<Material />} />
             <Route path="/english-korean/mindset" element={<Mindset />} />
             <Route path="/english-korean/plant" element={<Plant />} />
+            <Route path="/english-korean/polarbear" element={<Polarbear />} />
             <Route path="/english-korean/romanian" element={<Romanian />} />
-            <Route path="/english-korean/stonegenge" element={<Stonehenge />} />
+            <Route path="/english-korean/stonehenge" element={<Stonehenge />} />
             <Route path="/english-korean/thefuturework" element={<Thefuturework />} />
             <Route path="/english-korean/steppyramid" element={<Steppyramid />} />
             <Route path="/english-korean/whitehouse" element={<Whitehouse />} />
@@ -127,7 +130,8 @@ function App() {
             <Route path="/korean-english/line" element={<Line />} />
             <Route path="/korean-english/robot" element={<Robot />} />  
             <Route path="/korean-english/microsoft" element={<Microsoft />} />  
-            <Route path="/korean-english/samsung" element={<Samsung />} /> 
+            <Route path="/korean-english/samsung" element={<Samsung />} />
+            <Route path="/korean-english/iphone" element={<Iphone />} />  
             <Route path="/korean-english/apple" element={<Apple />} />   
             <Route path="/korean-english/eu" element={<Eu />} />
             <Route path="/korean-english/insta" element={<Insta />} />

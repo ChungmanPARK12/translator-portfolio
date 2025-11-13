@@ -21,6 +21,15 @@ const SK = () => {
               <h3>SK semiconductor subsidary, starting a new business this year.</h3>
             </p>
             <p>
+              <h6>Published: March 11, 2024, 10:58 AM. (Original Article)</h6>
+            </p>
+            <p>
+              <h5>Reporter Jang Kyung-yun</h5>
+            </p>
+            <p>
+              <h5>(Recomendation) (Comments)</h5>
+            </p>
+            <p>
               <h4>Sk Siltron, ISC, seeking collaboration for the new semiconsuctor business.</h4> 
             </p>
             <p>
@@ -60,7 +69,7 @@ const SK = () => {
               semiconductor business portfolio. 
             </p>
             <p>
-              This strategy by SK Group is expected to continue throughout this year
+              This strategy by SK Group is expected to continue throughout this year.
             </p>
             <p>
               A semiconductor industry official explained, "SK Group has selected six to seven candidates for new business and 
@@ -91,6 +100,9 @@ const SK = () => {
               Another semiconductor industry official said "These recent moves by the affiliates reflect SK Group's strong intention to build 
               a broader semiconductor ecosystem," adding that "the group is focusing on securing fundamental technologies and 
               areas that can generate synergy effects."
+            </p>
+            <p>
+              By Jang Kyung-yun
             </p>
           </div>
         </div>

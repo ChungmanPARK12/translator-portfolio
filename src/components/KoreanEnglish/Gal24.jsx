@@ -20,6 +20,13 @@ const Gal24 = () => {
             <p>
               <h3>Galaxy S24, Ultra Maintains No.1 Spot in U.S. Consumer Reports New iPhone released.</h3>
             </p>
+              <p>
+              <h6>Published: October 15, 2024, 8:29 AM. Updated: October 15, 2024, 13:19 PM (Original Article)</h6>
+            </p>
+            <p>
+              <h5>Reporter Hwang Seoul</h5>
+            </p>
+          
             <p>
               <h4>Galaxy S24 Ultra and iPhone15 Promax tied for the first place.</h4> 
             </p>
@@ -42,52 +49,43 @@ const Gal24 = () => {
             </div>
           </div>
 
-          <div className="translation-col-E"  style={{ fontSize: '0.90rem' }}>
+          <div className="translation-col-E"  style={{ fontSize: '0.98rem' }}>
             <h4>English</h4>
           
             <p>
-              SK Group owns major semiconductor-related companies, including memory giant SK hynix as well as firms 
-              such as SKC, SK Materials, and SK Siltron.
+              According to the industry reports on the 15th, based on the announcement from U.S. Consumer Reports, the Galacy S24 Ultra 
+              scored a total of 87 points, maintaining its No.1 spot, while the iPhone 16 Pro Max tied for first place. 
             </p>
 
             <p>
-              Recently SK hynix acquired Key Foundry(8-inch foundry), SKC took over ISC(back-end components), and 
-              SK Inc. bought Evertech(special adhesives for packaging), underscoring the group's active push to expand its 
-              semiconductor business portfolio. 
+              This smartphone ranking has announced after released iPhone 16 Pro Max. 
+              Galaxy S24 was also No.1 with a total of 87 points in the last ranking on March. 
             </p>
             <p>
-              This strategy by SK Group is expected to continue throughout this year
+              iPhone Pro Max ranked on third with a total of 86 points, Galaxy S24 Plus ranked on forth with a total of 85 points.
             </p>
             <p>
-              A semiconductor industry official explained, "SK Group has selected six to seven candidates for new business and 
-              is expected to move forward with some of them," adding that "its related affiliates are already moving busily
-              in line with the plan."
+              Galaxy S24 Ultra received the highest score of 5 out of 10 in several key catagories of the Consumer Reports evaluation, 
+              including reliability, customer satisfaction, camera, display, durability, performance, sound, ease of use, and call quality.
             </p>
             <p>
-              For example, SK Siltron is understood to have entered talks in the first quarter of this year to establish 
-              a partnership with a domestic company specializing in power semiconductor materials.
+              On the other hand, the iPhone 16 Pro Max received a score of 4 in ease of use and call quality, giving it an overall score 1 point lower than the Galaxy.
             </p>
             <p>
-              In addition to its mainstay silicon wafer business, SK Silstron is also developing next-generation power semiconductor 
-              materials such as silicon carbide(SiC) wafers. The discussions are reportely focued on galium nitride(GaN), another next-generation power semiconductor material 
-              that is drawing attention alongside SiC.
+              Consumer Reports described the Galaxy as a fantastic option for most consumers who want premium features. 
+              "They went on to say," Overall, it's superior with a brighter display, advanced processor and camera, and improved battery life. 
+              However, the most attractive features are the Galaxy's AI capabilities, such as 'real-time translation', 'circle to search', and 
+              'AI editing', which are practical and quite impressive.
             </p>
             <p>
-              Compared with silicon-based semiconductors, SiC and GaN offer higher durability under high temperatures and 
-              voltages as well as greater power efficiency. In particular, SiC excels in high-temperature and high-voltage endurance, 
-              while GaN stands out for its switching properties(the ability to turn electrical signals on and off) driving growing market 
-              demand for each material in their respective applications. 
+              Consumer Reports is the largest consumer goods monthly magazine published by the Consumers Union in the United States.
+              Each month, it compares the performance and prices of various consumer products, providing valuable information to consumers. 
+              Funded solely by membership fees, donations, and magazine sales, it enjoys a high level of trust among consumers.
             </p>
             <p>
-              ISC, which was acquired by SKC in October last year, is also reviewing acquisitions of companies that can be linked to its 
-              existing back-end component business. Although the specific business area and candidate firms have not been disclosed, 
-              the M&A deal is expected to be finalized as early as the second half of this year. 
+              By Hwang Seoul
             </p>
-            <p>
-              Another semiconductor industry official said "These recent moves by the affiliates reflect SK Group's strong intention to build 
-              a broader semiconductor ecosystem," adding that "the group is focusing on securing fundamental technologies and 
-              areas that can generate synergy effects."
-            </p>
+      
           </div>
         </div>
       </div>

@@ -85,7 +85,7 @@ const portfolioItems = [
     title: 'Why we need to protect polar bears',
     subtitle: 'February 2025',
     description: 'IELTS Reading.',
-    link: '/english-korean/Polarbrear',
+    link: '/english-korean/Polarbear',
   },
     {
     id: 'Romanian',
@@ -95,11 +95,11 @@ const portfolioItems = [
     link: '/english-korean/Romanian',
   },
    {
-    id: 'stonegenge',
+    id: 'stonehenge',
     title: 'Stonegenge',
     subtitle: 'January 2025',
     description: 'IELTS Reading.',
-    link: '/english-korean/stongenge',
+    link: '/english-korean/stonehenge',
   },
   {
     id: 'thefuturework',

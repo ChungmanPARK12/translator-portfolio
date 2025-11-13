@@ -3,7 +3,7 @@ import aiEssayImage from '../../assets/AILiner/1.png';
 import aiEssayImage2 from '../../assets/AILiner/2.png';
 import aiEssayImage3 from '../../assets/AILiner/3.png';
 import aiEssayImage4 from '../../assets/AILiner/4.png';
-import aiEssayImage5 from '../../assets/AILiner/5.png';
+import aiEssayImage5 from '../../assets/AILiner/51.png';
 
 const AILiner = () => {
   return (
@@ -23,11 +23,27 @@ const AILiner = () => {
             <p>
               <h3>AI Search 'Liner', Why it's Clear This App is a Must Have for College Students</h3>
             </p>
+            <p>
+              <h6>Published: Novermber 2, 2024, 8:01 AM. Updated: November 2, 2024, 8:01 AM (Original Article)</h6>
+            </p>
+            <p>
+              <h5>Reporter Son Eom-ji</h5>
+            </p>
+            <p>
+              <h5>(Recomendation) (Comments)</h5>
+            </p>
             <p>Summarizing hundreds of pages of academic papers into a single A4 page.</p>
             <p>Condensing a 20-minute video into just 1 minute... A powerful tool for saving time at work.</p>
             <p>
               <h3>Effortless Data Collection</h3>
             </p>
+            <p>
+              May I help you?
+            </p>
+            <p>
+              <h5>[Set notification]</h5>
+            </p>
+            <p><h4>[Upcoming Tech conference] [Tips for a Successful Thesis Defence ]</h4></p>
           </div>
         </div>
 
@@ -40,10 +56,10 @@ const AILiner = () => {
             </div>
           </div>
 
-          <div className="translation-col-E">
+          <div className="translation-col-E" style={{ fontSize: '0.90rem' }}>
             <h4>English</h4>
             <p>
-              Mr.Son Reporter = Liner, an Ai-powered search service developed in Korea, has gained greater
+              (SEOUL, News1) By Son Eom-ji = Liner, an Ai-powered search service developed in Korea, has gained greater
               popularity in the United States. Global uers make up 90% of Liner's uer base, and 60% of its, 
               paid subscribers are from the U.S.
             </p>
@@ -60,6 +76,9 @@ const AILiner = () => {
             </p>
             <p>
               <h3> Show me the operating profit of News1 for 2023</h3>
+            </p>
+            <p>
+              Searching web...
             </p>
             <p>
               The specific information regarding News1's operating profit for 2023 is not currently available. 
@@ -170,7 +189,7 @@ const AILiner = () => {
               I plan to further reduce my actual working hours.
             </p>
             <p>
-              Reported by Son Eomji
+              By Son Eom-ji
             </p>
          
           </div>

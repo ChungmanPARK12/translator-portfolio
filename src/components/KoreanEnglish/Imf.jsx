@@ -26,6 +26,15 @@ const Imf = () => {
               </h3>
             </p>
             <p>
+              <h6>Published: Novermber 20, 2023, 5:00 AM. Updated: November 20, 2023, 5:01 AM (Original Article)</h6>
+            </p>
+            <p>
+              <h5>Reporter Jeong Jin-ho</h5>
+            </p>
+            <p>
+              <h5>(Recomendation) (Comments)</h5>
+            </p>
+            <p>
               It is expected that South Korea's economy will not be out of the early 2% growth rate 
               until five years later. The IMF(International Monetary Fund) predicted that in the long 
               term, it seems the Korean government debt will be higher that GDP as twice 50 years later. 
@@ -90,6 +99,9 @@ const Imf = () => {
             <p>
               <h3>South Korea's Economic Growth Forecast Remains Stuck Around 2%</h3>
             </p>
+            <p>
+              Repoter Shin Jae-min
+            </p>
             
           </div>
         </div>
@@ -118,6 +130,9 @@ const Imf = () => {
                </p>
                <p>
                 <h3>Trend in South Korea's growth rate</h3>
+               </p>
+               <p>
+                The image of trend in South Korea's growth rate.
                </p>
                <p>
                 Low birth rates and aging populations are cited as the background of Peak Korea. 
@@ -156,6 +171,9 @@ const Imf = () => {
               also break by population problems so it needs to be increased investment in higher education 
               to increase labor productivity per capita, companies to actively hire employees and labor flexibility 
               is essential to secure productivity
+            </p>
+            <p>
+              By Sejong=Jeong Jin-ho
             </p>
            
           </div>

@@ -22,6 +22,15 @@ const Cloud = () => {
               </h3>
             </p>
             <p>
+              <h6>Published: April 4, 2024, 10:01 AM. (Original Article)</h6>
+            </p>
+            <p>
+              <h5>Reporter Jang Yu-mi</h5>
+            </p>
+            <p>
+              <h5>(Recomendation) (Comments)</h5>
+            </p>
+            <p>
               Complete conquest of the financial cloud support businnes, opening the "Webinar"... with 2 sections. 
         
             </p>
@@ -97,7 +106,9 @@ const Cloud = () => {
               the financial cloud service for the first time in Korea, so they will actively support effective cloud tranformation 
               and successful businesses based on the stable infrastructure, professional consulting capabilities, and know-how.
             </p>
-            
+            <p>
+              By Jang Yu-mi
+            </p>
           </div>
         </div>
       </div>

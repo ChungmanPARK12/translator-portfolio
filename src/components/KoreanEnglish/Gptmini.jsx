@@ -22,6 +22,14 @@ const Gptmini = () => {
             <p>
               <h3>OpenAI, released GPT-4 mini reduced price.</h3>
             </p>
+             <p>
+              <h6>Published: July 19, 2024, 4:22 AM. Updated: July 19, 2024, 5:44 AM (Original Article)</h6>
+            </p>
+        
+            <p>
+              <h5>(Recomendation) (Comments)</h5>
+            </p>
+            
             <p>
               [OpenAI Logo(Royter=Yonhap News File Photo)]
             </p>
