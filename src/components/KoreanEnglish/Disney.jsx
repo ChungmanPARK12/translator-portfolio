@@ -27,7 +27,7 @@ const Disney = () => {
               <h6>Published: October 2, 2023, 1:04 PM (Original Article)</h6>
             </p>
             <p>
-              <h5>Reporter Kwon Hayong</h5>
+              <h5>Reporter Kwon Ha-yong</h5>
             </p>  
           </div>
         </div>

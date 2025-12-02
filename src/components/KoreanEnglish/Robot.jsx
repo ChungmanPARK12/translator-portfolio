@@ -28,7 +28,7 @@ const Robot = () => {
               <h6>Published: March 24, 2024, 1:24 PM Updated: March 24, 2024 (Original Article)</h6>
             </p>
             <p>
-              <h5>Reporter Noh Jae-hyun</h5>
+              <h5>Reporter Lee Ho-gil</h5>
             </p>
             <p>
               -

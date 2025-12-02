@@ -25,7 +25,7 @@ const Iphone = () => {
               <h6>Published: October 18, 2023, 05:12 AM. (Original Article)</h6>
             </p>
             <p>
-              <h5>Reporter Jang Yu-mi</h5>
+              <h5>Reporter Jeong Woo-chan</h5>
             </p>
             <p>
               <h5>(Recomendation) (Comments)</h5>
@@ -85,44 +85,39 @@ const Iphone = () => {
             <h4>English</h4>
           
             <p>
-              The Financial Cloud Support Business conducted by the "Korean Fintech Support Center" is 
-              supporting their consulting and cloud to small and medium-sized companies to have their business and 
-              development for Fintech service in an identified security environment. So about 60 companies would get 
-              nominated kt Cloud will provide customized cloud service, consulting, and a voucher maximum of 
-              $100,100,00 as the supplier.
+              The telecommunication industry official mentioned it is true that the sales volume of iPhone 15 has increased 
+              slightly compared with previous versions, but it still has a similar level of sales to the iPhone 14 as well as showing 
+              the high demand focusing on the new version of the series. 
             </p>
 
             <p>
-              The features and advantages of the Financial Cloud in kt Cloud are infrastructure customizing, providing 
-              a container platform, and rational network cost. They will provide an additional coupon of $5000 to the 
-              companies attended that can spend on kt Cloud services such as infrastructure Technology, Convert Cloud, 
-              Electronic Finance Business, and Financial Security Consulting. 
+              Customers tend to prefer the higher version of the model, which includes the iPhone15 Pro or iPhone15 Pro Max, to the lower model, 
+              such as iPhone15, iPhone15 Plus, etc. The agency staff of LG Uplus mentioned that it is easy to purchase the iPhone 15 model for both 128gigabite (GB), 
+              and 256gigabite (GB) with any color as well as the iPhone 15 Plus model but, the iPhone 15 Pro is already sold out in the standard natural titanium color. 
             </p>
             <p>
-              Also, kt Cloud will provide HAC(Hyperscale AI Computing) that supports a huge scale of clustering and AI 
-              Serve(Serv) that AI inference service with GPU slicing technology for free to support Fintech's AI service 
-              Business.
+              -
             </p>
             <p>
-              Meantime, various companies such as Nick that has an Analysis Financial Trade Platform, Bizplay that provides 
-              None-Evidence Expenditure Management Service, Cloud VAN company, Pinebo and Cashmelo that has Transfer Abroad 
-              Global Expression etc... has been using financial cloud service in kt Cloud. 
+              Also, another mobile store staff of SKY said that it seems like there is a higher demand in the sales of the iPhone 15 Pro, and similarly, it would be easy to purchase the iPhone 15 model.
             </p>
             <p>
-              The owner of "I aurora", Mr.Jang who published the card service, "Namane" said that the small scale companies 
-              usually have some difficulty integrating server and network equipment at an early stage of business but, 
-              kt cloud's support was really helful for intruducing cloud and service development and also, additional coupon 
-              helped us to reduce the cost of our business as well. 
+              According to the result of the pre-booking from KT’s customers for iPhone, iPhone 15 Pro accounts for over 50% of the total customers who are under booking, and iPhone Pro Max accounts for 20%. 
+              The iPhone 15 Pro with natural titanium color was the most popular model among customers.  
             </p>
             <p>
-              You can apply for the Webinar in kt Cloud's portal for free and they will send the link through email or message 
-              on the Webinar's day. Also, everyone can participate in the quiz and survey event when applying, they can also 
-              get a small prize through a lottery. 
+              Just as the iPhone 15 Pro is becoming popular nowadays, the iPhone 14 series has also been in high demand among certain iPhone models before. Another telecommunication industry official said that also, 
+              the iPhone 14 series had a shortage of products because it was a popular model like the Pro model but, the iPhone 14 and iPhone 14 Plus models kept adequate products. 
             </p>
             <p>
-              The director of kt Cloud, Mr.Nam said that they provide a variety of services to financial companies after publishing 
-              the financial cloud service for the first time in Korea, so they will actively support effective cloud tranformation 
-              and successful businesses based on the stable infrastructure, professional consulting capabilities, and know-how.
+              -
+            </p>
+            <p>
+              In the case of the iPhone 14 series last year, customers had to wait for several weeks to activate their mobile, and customers had to wait for more than a month to receive their iPhone 14 delivered by the Apple Korea website.
+            </p>
+            <p>
+              Meanwhile, the iPhone 15 series has been released in Korea since the 13th. It is a delayed date of about 3 weeks compared with the first and second launching countries. It was released on the 22nd in the first launching countries 
+              such as the USA, Japan, and other 40countries. The iPhone 15 series model was in the spotlight for featuring a USB-C Type for the first time. 
             </p>
        
           </div>
