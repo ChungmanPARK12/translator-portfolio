@@ -118,7 +118,7 @@ const Steamcar = () => {
               At the turn of the key, the boiler lit and reached its operating pressure inside of forty seconds. 
               As they drove the test vehicle further, they found that its evenly distributed weight lent it surprisingly good handling, even though it was so heavy. 
               As the new Doble steamer was further developed and tested, its maximum speed was pushed to over a hundred miles per hour, 
-              and it achieved about fifteen miles per gallon of kerosene with negligible emessions. 
+              and it achieved about fifteen miles per gallon of kerosene with negligible emissions. 
             
             </p>
           </div>
@@ -135,100 +135,28 @@ const Steamcar = () => {
         <div className="translation-row">
           <div className="translation-col">
             <p>
-              <strong>G.</strong> Despite all this, there is limited empirical evidence to suggest that streaming results in better outcomes for students. Professor Jogn Hattie, director of the Melbourne Education Research Institute, notes that 'tracking has minimal effects on learning outcomes'. 
-              What is more, streaming appears to significantly - and negatively - affect those students assigned to the lowest sets. These students tend to have much higher representation of low socioeconomic class. 
-              Less significant is the small benefit for those lucky clever students in the higher sets. The overall result is that the smart stay smart and the dumb get dumber, further entrenching the social divide.    
+              <strong>G.</strong> Sadly, the Dobles' brilliant steam car never was a financial success. Priced at around $18,000 in 1924, it was popular only among the very wealthy. Plus, it is said that no two Model Es were quite same, because Abner Doble thinkered endlessly with the design. 
+              By the time the company folded in 1931, fewer than fifty of the amazing Model E steam cars had been produced. For his whole career, until his death in 1961, Abner Doble remained adamant that steam-powered automobiles were at least equal to gasoline cars, if not superior. 
+              Given the evidence, he may have been right. Many of the Model E Dobles which have survived are still in good working condition, some having been driven over half a million miles with only normal maintenence. 
+              Astonishingly, an unmodified Doble Model E runs clean enough to pass the emissions laws in California today, and they are pretty strict. It is true that the technology poses some difficult problems, but you cannot help but wonder how efficient a steam car might be with the benefit of modern materials and computers. 
+              Under the current pressure to improve automotive performance and reduce emissions, it is not unthinkable that the steam car may rise again.    
             
             </p>
         
           </div>
           <div className="translation-col2">
             <p>
-              <strong>G.</strong> 그럼에도 불구하고, 스트리밍 방식이 학생들에게 더 나은 결과를 가져온다는 실질적인 증거는 아직 제한적입니다. 멜버른 교육연구소 소장인 존 해티(John Hattie)교수는 “트래킹은 학습 성과에 미치는 영향이 미미하다”고 지적합니다. 더욱이, 스트리밍은 가장 낮은 그룹에 배정된 학생들에게 상당히 부정적인 영향을 미치는 것으로 보입니다. 
-              이 학생들은 낮은 사회경제적 계층의 비율이 훨씬 높게 나타나는 경향이 있습니다. 반면, 상위 그룹에 속한 운 좋고 영리한 학생들에게 주어지는 이점은 상대적으로 괜찮습니다. 결과적으로, 똑똑한 학생은 똑똑하게 남고, 그렇지 않은 학생은 더 뒤처지게 되어 사회적 격차를 더욱 고착화시킨가는 것입니다.   
+              <strong>G.</strong> 하지만 안타깝게도, 더블형제의 증기 자동차는 상업적으로는 성공하지 못했습니다. 1924년 당시 $18,000은 지나치게 높은 가격이었기 때문입니다. 게다가, 모델 E는 더블이 끊임없이 설계를 수정하면서 불안정한 부분이 많았다고 합니다. 1931년 더블형제의 회사가 문을 닫기전까지, 모델 E의 생산량은 50대를 넘지 못하였다고 합니다. 
+              더블은 1961년 사망할 때까지, 전 생애에 걸쳐 자신의 증기 자동차가 가솔린 자동차에 뒤지지 않는다는 확고한 신념을 가지고 있었습니다. 
+              몇가지 증거를 고려할때, 더블의 주장은 옳았을지도 모릅니다. 대부분의 모델 E 차량들은 여전히 좋은 상태로 작동 중이며, 일부 차량은 일반적인 유지 보수만으로 오십만 마일 이상을 주행한 것으로 알려져 있습니다. 
+              놀랍게도, 구 모델 E는 캘리포니아의 까다로운 차량환경 규정을 통과할 정도로 적은양의 배출로 주행이 가능했다고 합니다. 
+              더블의 기술력이 몇 가지 문제에 부딪힌 것은 사실이지만, 증기 자동차의 효율성만큼은 오늘날의 차량 기술에도 뒤쳐지지 않는다고 합니다. 
+              이는 최근 차량 배출과 환경 문제 때문일 것입니다.
             </p>
            
           </div>
         </div>        
-         {/* Section H */}
-        <div className="translation-row">
-          <div className="translation-col">
-            <p>
-              <strong>H.</strong> In the latest update of Hattie's influential meta-analysis of factors influencing student achievement, one of the most significant factors is the teachers' estimate of achievement. 
-              Streaming students by diagnosed achievement automatically limits what the teacher feels the student is capable of. Meanwhile, in a mixed environment, teachers' estimates need to be more diverse and flexible. 
-            
-            </p>
-        
-          </div>
-          <div className="translation-col2">
-            <p>
-              <strong>H.</strong> 학생 성과에 영향을 미치는 요인을 분석한 해티의 최근 업데이트에 따르면, 가장 중요한 요인 중 하나는 교사가 학생들의 성과를 어떻게 평가하느냐입니다. 교사의 수업방식에 따라 학생들이 할 수 있는 역량이 제한될수도 있기때문에, 혼합 학급의 환경에서 교사는 학생을 좀더 다양하고 유연하게 평가할 수 있습니다.  
-            </p>
-           
-          </div>
-        </div>
 
-          {/* Section H */}
-        <div className="translation-row">
-          <div className="translation-col">
-            <p>
-              <strong>I.</strong> While streaming might seem to help teachers effectvely target a student's ZPD. It can underestimate the importance of peer-to-peer learning. 
-              A crucial aspect of constructivist theory is the role of the MKO - 'more-knowledgeable other' - in knowledge construction. 
-              While teachers are traditionally the MKOs in classrooms, the value of knowledgeable student peers must not go unrecognised either.  
-            
-            </p>
-        
-          </div>
-          <div className="translation-col2">
-            <p>
-              <strong>I.</strong> 스트리밍 방식은 교사가 학생의 근접발달영역(ZPD)을 효과적으로 공략하는 데 도움이 되는 것처럼 보일 수 있지만, 학생들 간의 상호 학습의 중요성을 간과할 수 있습니다. 구성주 이론의 핵심 측면 중 하나는 MKO(More Knowledgeable Other, 더 많이 아는 사람)이 지식을 형성하는데 있어서 차지하는 역할입니다.
-              교사가 MKO적으로 학생보다 뛰어나지만, 우수한 학생들에게도 지식적으로 배울점이 있다는 것 또한 간과해서는 안됩니다.  
-            </p>
-           
-          </div>
-        </div>
-
-             {/* Section H */}
-        <div className="translation-row">
-          <div className="translation-col">
-            <p>
-              <strong>J.</strong> I find it amazing to watch students get over an idea to their peers in ways that I would never think of. They operate with different language tools and different social tools from teachers and, 
-              having just learn it themselves, they possess similar cognitive structures to their struggling classmates. 
-              There is also something exciting about passing on skills and knowledge that you yourself have just mastered - a certain pride and zeal, a certain freshness to the interaction between 'teacher' and 'learner' that is often lost by the expert for whom the steps are obvious and the joy of discovery forgotten.  
-            
-            </p>
-        
-          </div>
-          <div className="translation-col2">
-            <p>
-              <strong>J.</strong> 저는 제가 미쳐 생각하지못한 방식으로 학급 친구들과 아이디어를 공유하는 학생들을 관찰하며 놀라운 사실을 발견하게 되었습니다. 교사와는 다른 언어적 사회적 방식으로 소통하며, 평범한 다른 학급친구들과 비슷한 인지 구조를 가지고 있습니다. 당신이 배운 기술과 지식을 다른 사람에게 전수하는 데에는 또 다른 흥미로움이 있습니다 – 자부심과 열정, 그리고 교사와 학습자 사이의 선한 상호작용이 있습니다. 
-              이는 종종 모든 과정이 당연하게 여겨지고 발견의 기쁨이 잊힌 전문가들에겐 사라지곤 합니다. 
-            </p>
-           
-          </div>
-        </div>
-
-        
-             {/* Section H */}
-        <div className="translation-row">
-          <div className="translation-col">
-            <p>
-              <strong>K.</strong> Having a variety of different abilities in a collaborative learning environment provides valuable resources for helping students meet their learning needs, not to mention improving their communication and social skills. 
-              And today, more than ever, we need the many to flourish - not suffer at the expense of a few bright stars. Once a year, I go on a hike with my class, 
-              a mixed bunch of students. It is challenging. The fittest students realise they need to encourage the reluctant. 
-              There are lookouts who report back, and extra items to carry for others. We make it - together. 
-            
-            </p>
-        
-          </div>
-          <div className="translation-col2">
-            <p>
-              <strong>K.</strong> 다양한 능력을 가진 학생들이 단체학습 환경에서 함께 배우는것은 학생들에게 배움에 필요한 귀중한 자원이 될 뿐만 아니라, 의사소통 및 사회적 기술을 향상시키는 데도 도움을 줍니다. 그리고 오늘날 그 어느 때보다도, 소수의 뛰어난 인재를 위해 다수가 희생되는 것이 아니라, 모두가 함께 성장하는 것이 필요합니다. 
-              저는 일년에 한번씩 학급 아이들과 하이킹을 갑니다. 똑똑한 아이들은 뒤처지는 친구들을 도와야한다는 용기를 알고, 주변을 살피며, 다른 아이들을 도와줍니다. 우리는 함께 목표를 이룰것 입니다.  
-            </p>
-           
-          </div>
-        </div>
       </div>
     </div>
   );

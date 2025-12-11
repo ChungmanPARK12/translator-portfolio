@@ -141,7 +141,7 @@ const portfolioItems = [
     title: 'Urban farming',
     subtitle: 'July 2024',
     description: 'IELTS Reading.',
-    link: '/english-korean/steamcar',
+    link: '/english-korean/urbanfarming',
   },
 ];
 
