@@ -2,8 +2,6 @@ import './CSS1.css';
 import aiEssayImage from '../../assets/EUAI/1.png';
 import aiEssayImage2 from '../../assets/EUAI/2.png';
 
-
-
 const Eu = () => {
   return (
     <div className="translation-page-KE">
