@@ -47,15 +47,15 @@ const Trump2 = () => {
             <p>
               The candidate of democracy the former president, Trump received the highest rate after he was convicted of the suspicion of money to silence for his sexual harassment. 
             </p>
-            <p>-</p>
+        
             <p>
               30th, the Trump campaign committee said that the amount of sponsored money broke the previous record after the conviction of Trump.
             </p>
-            <p>-</p>
+        
             <p>
               The committee will announce that 40 million, the donation money which is almost double the previous record after Biden's shameful trial verdict.
             </p>
-            <p>-</p>
+        
             <p>
               The committee argued that 30% of the donation is from the new sponsors and that the political witch hunt for former President Trump is waking up sponsors.
             </p>
