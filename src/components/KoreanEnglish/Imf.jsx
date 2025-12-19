@@ -70,25 +70,26 @@ const Imf = () => {
           <div className="translation-col-K">
             <h4>Korean</h4>
             <div className="image-text-wrapper">
-              <img src={aiEssayImage2} alt="AI Essay B" className="translation-image" />
+              <img src={aiEssayImage2} alt="AI Essay B" className="translation-image-imf" />
             </div>
           </div>
 
-          <div className="translation-col-E">
+          <div className="translation-col-E" style={{ fontSize: '0.89rem' }}>
             <h4>English</h4>
             <p>
               <h3>IMF Warns Peak Korea "Growth May Hover in Low 2% Range for Next Five Years"</h3>
             </p>
             <p>
               Also, the financial outlook is not good eighter. 
-              <p>A warning light was turned on that 
-              a large scale financial burden could come due to the depletion of the national pension. </p>
+              A warning light was turned on that 
+              a large scale financial burden could come due to the depletion of the national pension. 
               The IMF expected that the government debt would double as GDP in 2075 unless there is 
               pension reform in the future. This is the result of assuming that if the government could 
               fill the deficit of the national pension. As a result of the national pension financial 
               estimation, the national pension will turn into a deficit in 2041, and the fund will be 
               exhausted in 2055. 
             </p>
+            
             <p>
               So, the IMF suggested a plan to integrate the national pension with other occupational 
               pensions, such as the civil service pension. It is pointed out that operating the pension 
@@ -99,6 +100,16 @@ const Imf = () => {
             <p>
               <h3>South Korea's Economic Growth Forecast Remains Stuck Around 2%</h3>
             </p>
+            <p>-</p>
+            <p>-</p>
+            <p>-</p>
+            <p>-</p>
+            <p>-</p>
+            <p>-</p>
+            <p>-</p>
+            <p>-</p>
+            <p>-</p>
+          
             <p>
               Repoter Shin Jae-min
             </p>
@@ -112,11 +123,11 @@ const Imf = () => {
           <div className="translation-col-K">
             <h4>Korean</h4>
             <div className="image-text-wrapper">
-              <img src={aiEssayImage3} alt="AI Essay B" className="translation-image" />
+              <img src={aiEssayImage3} alt="AI Essay B" className="translation-image-imf" />
             </div>
           </div>
 
-          <div className="translation-col-E">
+          <div className="translation-col-E" style={{ fontSize: '0.90rem' }}>
             <h4>English</h4>
                <p>
                  The growth rate is aleady in a pefiod of depression. The prospect of "Peak Korea" 
@@ -131,8 +142,18 @@ const Imf = () => {
                <p>
                 <h3>Trend in South Korea's growth rate</h3>
                </p>
+               <p>-</p>
+               <p>-</p>
+               <p>-</p>
+               <p>-</p>
+               <p>-</p>
+               <p>-</p>
+               <p>-</p>
+               <p>-</p>
+               <p>-</p>
+               <p>-</p>
                <p>
-                The image of trend in South Korea's growth rate.
+                The image of trend in South Korea's growth rate.[Provided=Koreabank]
                </p>
                <p>
                 Low birth rates and aging populations are cited as the background of Peak Korea. 

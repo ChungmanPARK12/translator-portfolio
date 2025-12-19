@@ -26,9 +26,7 @@ const SK = () => {
             <p>
               <h5>Reporter Jang Kyung-yun</h5>
             </p>
-            <p>
-              <h5>(Recomendation) (Comments)</h5>
-            </p>
+          
             <p>
               <h4>Sk Siltron, ISC, seeking collaboration for the new semiconsuctor business.</h4> 
             </p>
@@ -68,6 +66,7 @@ const SK = () => {
               SK Inc. bought Evertech(special adhesives for packaging), underscoring the group's active push to expand its 
               semiconductor business portfolio. 
             </p>
+            <p>-</p>
             <p>
               This strategy by SK Group is expected to continue throughout this year.
             </p>

@@ -67,7 +67,7 @@ strong {
 
 .translation-image {
   width: 600px;
-  height: auto;
+  height: 500px;
   border: 1px solid #ddd;        /* light border */
   border-radius: 8px;            /* rounded corners */
   padding: 6px;                  /* spacing inside border */
@@ -93,6 +93,25 @@ strong {
   background-color: #f9f9f9;     /* subtle background */
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);  /* soft shadow */
 }
+.translation-image4 {
+  width: 600px;
+  height: 300px;
+  border: 1px solid #ddd;        /* light border */
+  border-radius: 8px;            /* rounded corners */
+  padding: 6px;                  /* spacing inside border */
+  background-color: #f9f9f9;     /* subtle background */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);  /* soft shadow */
+}
+
+.translation-image-gpt {
+  width: 600px;
+  height: 200px;
+  border: 1px solid #ddd;        /* light border */
+  border-radius: 8px;            /* rounded corners */
+  padding: 6px;                  /* spacing inside border */
+  background-color: #f9f9f9;     /* subtle background */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);  /* soft shadow */
+}
 
 .translation-image-imf {
   width: 600px;
@@ -106,7 +125,7 @@ strong {
 
 .translation-image-cloud {
   width: 600px;
-  height: 550px;
+  height: 650px;
   border: 1px solid #ddd;        /* light border */
   border-radius: 8px;            /* rounded corners */
   padding: 6px;                  /* spacing inside border */

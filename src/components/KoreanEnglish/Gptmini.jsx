@@ -29,7 +29,15 @@ const Gptmini = () => {
             <p>
               <h5>(Recomendation) (Comments)</h5>
             </p>
-            
+            <p>-</p>
+            <p>-</p>
+            <p>-</p>
+            <p>-</p>
+            <p>-</p>
+            <p>-</p>
+            <p>-</p>
+            <p>-</p>
+            <p>-</p>
             <p>
               [OpenAI Logo(Royter=Yonhap News File Photo)]
             </p>
@@ -43,7 +51,7 @@ const Gptmini = () => {
           <div className="translation-col-K">
             <h4>Korean</h4>
             <div className="image-text-wrapper">
-              <img src={aiEssayImage2} alt="AI Essay B" className="translation-image" />
+              <img src={aiEssayImage2} alt="AI Essay B" className="translation-image-gpt" />
             </div>
           </div>
 
@@ -53,6 +61,8 @@ const Gptmini = () => {
               The generative AI ChatGPT development company, OpenAI announced the launch of GPT-4o mini 
               the compact version of 'GPT4o' the recent AI model on the 18th local time.
             </p>
+            <p>-</p>
+            
             <p>
               Plus, they had explained that 'GPT-4o' is the most useful and effective for the price ever 
               and then they will integrate the functions of image, video, and sound later.
@@ -66,7 +76,7 @@ const Gptmini = () => {
           <div className="translation-col-K">
             <h4>Korean</h4>
             <div className="image-text-wrapper">
-              <img src={aiEssayImage3} alt="AI Essay B" className="translation-image" />
+              <img src={aiEssayImage3} alt="AI Essay B" className="translation-image2" />
             </div>
           </div>
 
@@ -80,7 +90,9 @@ const Gptmini = () => {
             <p>
               The subscription price of 'GPT-4o' is measured to $0.15 for 1 million of input-token and 
               OpenAI explained this is a cheaper price for over 60% compared with 'GPT-3.5 Turbo'
-            </p>  
+            </p>
+            <p>-</p>
+            <p>-</p>  
             <p>
               'GPT-4o' has surpassed 'GPT-4' which had been rated as the recent version, in terms of user 
               preference for chatbot interactions and they emphasized that it achieved an accuracy 

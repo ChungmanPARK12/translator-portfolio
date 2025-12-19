@@ -18,7 +18,7 @@ const AILiner = () => {
             </div>
           </div>
 
-          <div className="translation-col-E">
+          <div className="translation-col-E" style={{ fontSize: '0.90rem' }}>
             <h4>English</h4>
             <p>
               <h3>AI Search 'Liner', Why it's Clear This App is a Must Have for College Students</h3>
@@ -29,14 +29,15 @@ const AILiner = () => {
             <p>
               <h5>Reporter Son Eom-ji</h5>
             </p>
-            <p>
-              <h5>(Recomendation) (Comments)</h5>
-            </p>
+         
             <p>Summarizing hundreds of pages of academic papers into a single A4 page.</p>
             <p>Condensing a 20-minute video into just 1 minute... A powerful tool for saving time at work.</p>
             <p>
               <h3>Effortless Data Collection</h3>
             </p>
+            <p>-</p>
+            <p>-</p>
+            <p>-</p>
             <p>
               May I help you?
             </p>
@@ -77,6 +78,7 @@ const AILiner = () => {
             <p>
               <h3> Show me the operating profit of News1 for 2023</h3>
             </p>
+            <p>-</p>
             <p>
               Searching web...
             </p>
@@ -134,7 +136,7 @@ const AILiner = () => {
             </div>
           </div>
 
-          <div className="translation-col-E" style={{ fontSize: '0.92rem' }}>
+          <div className="translation-col-E" style={{ fontSize: '0.95rem' }}>
             <h4>English</h4>
             <p>
               It also has an image analysis feature. It can translate images with English text into Korean and 
@@ -170,7 +172,7 @@ const AILiner = () => {
           <div className="translation-col-K">
             <h4>Korean</h4>
             <div className="image-text-wrapper">
-              <img src={aiEssayImage5} alt="AI Essay B" className="translation-image2" />
+              <img src={aiEssayImage5} alt="AI Essay B" className="translation-image4" />
             </div>
           </div>
 
