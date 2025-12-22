@@ -12,7 +12,7 @@ const Google = () => {
           <div className="translation-col-K">
             <h4>Korean</h4>
             <div className="image-text-wrapper">
-              <img src={aiEssayImage} alt="AI Essay A" className="translation-image" />
+              <img src={aiEssayImage} alt="AI Essay A" className="translation-image-google" />
             </div>
           </div>
 
@@ -48,7 +48,7 @@ const Google = () => {
           <div className="translation-col-K">
             <h4>Korean</h4>
             <div className="image-text-wrapper">
-              <img src={aiEssayImage2} alt="AI Essay B" className="translation-image" />
+              <img src={aiEssayImage2} alt="AI Essay B" className="translation-image-google2" />
             </div>
           </div>
 
@@ -92,11 +92,11 @@ const Google = () => {
           <div className="translation-col-K">
             <h4>Korean</h4>
             <div className="image-text-wrapper">
-              <img src={aiEssayImage3} alt="AI Essay B" className="translation-image" />
+              <img src={aiEssayImage3} alt="AI Essay B" className="translation-image-google2" />
             </div>
           </div>
 
-          <div className="translation-col-E"  style={{ fontSize: '0.98rem' }}>
+          <div className="translation-col-E"  style={{ fontSize: '0.95rem' }}>
             <h4>English</h4>
           
             <p>
@@ -112,6 +112,10 @@ const Google = () => {
             <p>
               <h4>Google - 2.5 billion in Anthropic</h4>
             </p>
+            <p>-</p>
+            <p>-</p>
+            <p>-</p>
+            <p>-</p>
             <p>
               MS(Microsoft) is on the verge of retaking the first ranking in the world's capitalization.
               MS's market capitalization is at approximately $2 trillion, and they are chasing Apple which ranked in first place

@@ -13,7 +13,7 @@ const Twofold = () => {
           <div className="translation-col-K">
             <h4>Korean</h4>
             <div className="image-text-wrapper">
-              <img src={aiEssayImage} alt="AI Essay A" className="translation-image" />
+              <img src={aiEssayImage} alt="AI Essay A" className="translation-image3" />
             </div>
           </div>
 
@@ -106,7 +106,7 @@ const Twofold = () => {
           <div className="translation-col-K">
             <h4>Korean</h4>
             <div className="image-text-wrapper">
-              <img src={aiEssayImage4} alt="AI Essay B" className="translation-image-twofold1" />
+              <img src={aiEssayImage4} alt="AI Essay B" className="translation-image3" />
             </div>
           </div>
 
