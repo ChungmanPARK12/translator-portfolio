@@ -179,6 +179,25 @@ strong {
   background-color: #f9f9f9;     /* subtle background */
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);  /* soft shadow */
 }
+.translation-image-nano {
+  width: 500px;
+  height: 200px;
+  border: 1px solid #ddd;        /* light border */
+  border-radius: 8px;            /* rounded corners */
+  padding: 6px;                  /* spacing inside border */
+  background-color: #f9f9f9;     /* subtle background */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);  /* soft shadow */
+}
+
+.translation-image-nano2 {
+  width: 600px;
+  height: 700px;
+  border: 1px solid #ddd;        /* light border */
+  border-radius: 8px;            /* rounded corners */
+  padding: 6px;                  /* spacing inside border */
+  background-color: #f9f9f9;     /* subtle background */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);  /* soft shadow */
+}
 .translation-image-twofold1 {
   width: 600px;
   height: 700px;
@@ -197,8 +216,27 @@ strong {
   background-color: #f9f9f9;     /* subtle background */
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);  /* soft shadow */
 }
-.translation-image-line2 {
+
+.translation-image-disney {
   width: 600px;
+  height: 700px;
+  border: 1px solid #ddd;        /* light border */
+  border-radius: 8px;            /* rounded corners */
+  padding: 6px;                  /* spacing inside border */
+  background-color: #f9f9f9;     /* subtle background */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);  /* soft shadow */
+}
+.translation-image-robot {
+  width: 550px;
+  height: 700px;
+  border: 1px solid #ddd;        /* light border */
+  border-radius: 8px;            /* rounded corners */
+  padding: 6px;                  /* spacing inside border */
+  background-color: #f9f9f9;     /* subtle background */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);  /* soft shadow */
+}
+.translation-image-line2 {
+  width: 700px;
   height: 700px;
   border: 1px solid #ddd;        /* light border */
   border-radius: 8px;            /* rounded corners */

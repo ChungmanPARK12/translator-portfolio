@@ -11,7 +11,7 @@ const Nano = () => {
             <div className="translation-col-K">
               <h4>Korean</h4>
               <div className="image-text-wrapper">
-                <img src={aiEssayImage} alt="AI Essay A" className="translation-image" />
+                <img src={aiEssayImage} alt="AI Essay A" className="translation-image-nano" />
               </div>
             </div>
   
@@ -37,7 +37,7 @@ const Nano = () => {
             <div className="translation-col-K">
               <h4>Korean</h4>
               <div className="image-text-wrapper">
-                <img src={aiEssayImage2} alt="AI Essay B" className="translation-image" />
+                <img src={aiEssayImage2} alt="AI Essay B" className="translation-image-nano2" />
               </div>
             </div>
   
