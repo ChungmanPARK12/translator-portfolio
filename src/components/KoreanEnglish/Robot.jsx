@@ -81,7 +81,7 @@ const Robot = () => {
           <div className="translation-col-K">
             <h4>Korean</h4>
             <div className="image-text-wrapper">
-              <img src={aiEssayImage2} alt="AI Essay B" className="translation-image-line2" />
+              <img src={aiEssayImage2} alt="AI Essay B" className="translation-image-robot2" />
             </div>
           </div>
 

@@ -56,6 +56,7 @@ const Nano = () => {
               <p>
                 The research team classified a huge amount of information in the ECG dataset that can be used officially for the rest. 
               </p>
+              <p>-</p>
               <p>
                 For the result, they found out that it not only can distinguish the irregular rate of cardiac-impulse effectively and precisely but also, classified the subtypes of 
                 arrhythmia in the six cases with 95% accuracy.
@@ -70,6 +71,7 @@ const Nano = () => {
               <p>
                 The point of this theory is to reduce the consumption of energy by minimizing the number of devices and the small size enough to connect to a Wearable device.
               </p>
+              
               <p>
                 The professor at Northwestern University, Mark Husam who led the study about this explains that almost all sensors collect the data and then transfer them to the cloud 
                 which requires higher consumption of energy, and finally, sending the data to users. 

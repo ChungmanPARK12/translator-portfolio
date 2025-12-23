@@ -14,7 +14,7 @@ const Samsung = () => {
           <div className="translation-col-K">
             <h4>Korean</h4>
             <div className="image-text-wrapper">
-              <img src={aiEssayImage} alt="AI Essay A" className="translation-image" />
+              <img src={aiEssayImage} alt="AI Essay A" className="translation-image3" />
             </div>
           </div>
 
@@ -188,7 +188,10 @@ const Samsung = () => {
          
             <p>
               The visitors can see the huge Galaxy AI sculpture and there is a space that provides Live translation with “OnDevice AI”. Also, visitors can try the camera function with AI. 
-            </p>        
+            </p>
+            <p>-</p>
+            <p>-</p>
+            <p>-</p>        
             <p>
               By Lee Yong-ki
             </p>

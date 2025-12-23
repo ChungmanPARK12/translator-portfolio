@@ -11,7 +11,7 @@ const Iphone = () => {
           <div className="translation-col-K">
             <h4>Korean</h4>
             <div className="image-text-wrapper">
-              <img src={aiEssayImage} alt="AI Essay A" className="translation-image" />
+              <img src={aiEssayImage} alt="AI Essay A" className="translation-image-iphone" />
             </div>
           </div>
 
@@ -77,7 +77,7 @@ const Iphone = () => {
           <div className="translation-col-K">
             <h4>Korean</h4>
             <div className="image-text-wrapper">
-              <img src={aiEssayImage2} alt="AI Essay B" className="translation-image" />
+              <img src={aiEssayImage2} alt="AI Essay B" className="translation-image-iphone2" />
             </div>
           </div>
 

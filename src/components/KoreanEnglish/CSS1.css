@@ -172,7 +172,7 @@ strong {
 
 .translation-image-google2 {
   width: 600px;
-  height: 680px;
+  height: 650px;
   border: 1px solid #ddd;        /* light border */
   border-radius: 8px;            /* rounded corners */
   padding: 6px;                  /* spacing inside border */
@@ -235,8 +235,17 @@ strong {
   background-color: #f9f9f9;     /* subtle background */
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);  /* soft shadow */
 }
+.translation-image-robot2 {
+  width: 650px;
+  height: 700px;
+  border: 1px solid #ddd;        /* light border */
+  border-radius: 8px;            /* rounded corners */
+  padding: 6px;                  /* spacing inside border */
+  background-color: #f9f9f9;     /* subtle background */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);  /* soft shadow */
+}
 .translation-image-line2 {
-  width: 700px;
+  width: 600px;
   height: 700px;
   border: 1px solid #ddd;        /* light border */
   border-radius: 8px;            /* rounded corners */
@@ -258,6 +267,26 @@ strong {
 .translation-image-samsung {
   width: 630px;
   height: 650px;
+  border: 1px solid #ddd;        /* light border */
+  border-radius: 8px;            /* rounded corners */
+  padding: 6px;                  /* spacing inside border */
+  background-color: #f9f9f9;     /* subtle background */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);  /* soft shadow */
+}
+
+.translation-image-iphone {
+  width: 630px;
+  height: 650px;
+  border: 1px solid #ddd;        /* light border */
+  border-radius: 8px;            /* rounded corners */
+  padding: 6px;                  /* spacing inside border */
+  background-color: #f9f9f9;     /* subtle background */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);  /* soft shadow */
+}
+
+.translation-image-iphone2 {
+  width: 750px;
+  height: 790px;
   border: 1px solid #ddd;        /* light border */
   border-radius: 8px;            /* rounded corners */
   padding: 6px;                  /* spacing inside border */

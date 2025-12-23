@@ -14,7 +14,7 @@ const Line = () => {
           <div className="translation-col-K">
             <h4>Korean</h4>
             <div className="image-text-wrapper">
-              <img src={aiEssayImage} alt="AI Essay A" className="translation-image" />
+              <img src={aiEssayImage} alt="AI Essay A" className="translation-image3" />
             </div>
           </div>
 
@@ -99,7 +99,7 @@ const Line = () => {
           <div className="translation-col-K">
             <h4>Korean</h4>
             <div className="image-text-wrapper">
-              <img src={aiEssayImage3} alt="AI Essay B" className="translation-image" />
+              <img src={aiEssayImage3} alt="AI Essay B" className="translation-image3" />
             </div>
           </div>
 
@@ -140,6 +140,7 @@ const Line = () => {
              <p>
               -
             </p>
+            <p>-</p>
                <p>
               Messenger LINE, Nutured by Naver - Is It Being Taken Over By Japan?(CG)
             </p>
@@ -182,7 +183,9 @@ const Line = () => {
               In particular, suspicions are raised as to whether it is trying to take away Line from Naver, which has become a ‘popular messenger’ in Japan 
                that is a joint majority shareholder with Line, and Yahoo while Japan demanding a review of its capital relationship. 
             </p>
-        
+            <p>-</p>
+            <p>-</p>
+            <p>-</p>
             <p>
               By Noh Jae-hyun
             </p>

@@ -9,7 +9,7 @@ const Thefuturework = () => {
         <div className="translation-row">
           <div className="translation-col">
             <h4>English</h4>
-            <h3>미래의 업무 환경</h3>
+            <h3>The future of work</h3>
             <p>
               
               <strong>A.</strong> According to a leading busines consultancy, 3 - 14% of the global workforce well need to switch to a different occupation 
@@ -22,7 +22,7 @@ const Thefuturework = () => {
         
           <div className="translation-col2">
             <h4>Korean</h4>
-            <h3>스톤헨지</h3>
+            <h3>미래의 업무 환경</h3>
             <p>
           
                 <strong>A.</strong> 비즈니스 컨설턴트 관련 업계에 따르면, 3%에서 15%의 노동인구는 다른 직업으로 대체 될 것이며, 그러한 직업들은 대부분 기계를 다루는 업무가 될 것이라는 전망이다. 
