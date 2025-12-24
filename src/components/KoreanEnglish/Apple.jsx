@@ -13,7 +13,7 @@ const Apple = () => {
           <div className="translation-col-K">
             <h4>Korean</h4>
             <div className="image-text-wrapper">
-              <img src={aiEssayImage} alt="AI Essay A" className="translation-image" />
+              <img src={aiEssayImage} alt="AI Essay A" className="translation-image3" />
             </div>
           </div>
 
@@ -112,7 +112,7 @@ const Apple = () => {
               In addition, I will extend our technology continuously, and these new functions will reflect our long-term effort to provide the best experience to all users.  
             </p>
           
-     
+            <p>-</p>
             <p>
               By Min Dan-bi
             </p>

@@ -185,13 +185,13 @@ const Samsung = () => {
             <p>
               In particular, Samsung had an aggressive business strategy to open the hall in front of the Apple store within 50m distance. In addition, around 5000 people, including invited gaming influencers, visited the hall to experience the advanced features of the Galaxy S24 and there was a long queue to into the hall like 200m. 
             </p>
-         
+            <p>-</p>
             <p>
               The visitors can see the huge Galaxy AI sculpture and there is a space that provides Live translation with “OnDevice AI”. Also, visitors can try the camera function with AI. 
             </p>
             <p>-</p>
             <p>-</p>
-            <p>-</p>        
+         
             <p>
               By Lee Yong-ki
             </p>

@@ -109,9 +109,7 @@ const Iphone = () => {
               Just as the iPhone 15 Pro is becoming popular nowadays, the iPhone 14 series has also been in high demand among certain iPhone models before. Another telecommunication industry official said that also, 
               the iPhone 14 series had a shortage of products because it was a popular model like the Pro model but, the iPhone 14 and iPhone 14 Plus models kept adequate products. 
             </p>
-            <p>
-              -
-            </p>
+       
             <p>
               In the case of the iPhone 14 series last year, customers had to wait for several weeks to activate their mobile, and customers had to wait for more than a month to receive their iPhone 14 delivered by the Apple Korea website.
             </p>

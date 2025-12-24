@@ -304,6 +304,26 @@ strong {
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);  /* soft shadow */
 }
 
+.translation-image-eub {
+  width: 610px;
+  height: 700px;
+  border: 1px solid #ddd;        /* light border */
+  border-radius: 8px;            /* rounded corners */
+  padding: 6px;                  /* spacing inside border */
+  background-color: #f9f9f9;     /* subtle background */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);  /* soft shadow */
+}
+
+.translation-image-eub2 {
+  width: 600px;
+  height: 800px;
+  border: 1px solid #ddd;        /* light border */
+  border-radius: 8px;            /* rounded corners */
+  padding: 6px;                  /* spacing inside border */
+  background-color: #f9f9f9;     /* subtle background */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);  /* soft shadow */
+}
+
 .translation-image-insta {
   width: 610px;
   height: 700px;
