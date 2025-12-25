@@ -106,7 +106,7 @@ const Twofold = () => {
           <div className="translation-col-K">
             <h4>Korean</h4>
             <div className="image-text-wrapper">
-              <img src={aiEssayImage4} alt="AI Essay B" className="translation-image3" />
+              <img src={aiEssayImage4} alt="AI Essay B" className="translation-image-twofold2" />
             </div>
           </div>
 
@@ -127,6 +127,7 @@ const Twofold = () => {
               According to a report by market research firm Conterpointer Research, global foldable phone shipments in the first quarter reached 3.1 million units, 
               representing a 49% increase compared to the same period last year. 
             </p>
+            <p>-</p>
             <p>
               During this period, Huawei leveraged its massive domestic market to achieve a 35% market share, surpassng Samsung Electronics, 
               which had consistently held the top spot. With the launch of its triple-fold device, competition is expected to intensify even further. 
@@ -135,6 +136,9 @@ const Twofold = () => {
               Meanwhile, companies around the world are developing various types of smartphones in addition to the triple-fold design, including smartphones that open 
               and close like a wardrobe, site-out smartphones with screens that expand sideways, and rollable smartphones with screens that can be rolled up. 
             </p>
+            <p>-</p>
+            <p>-</p>
+            <p>-</p>
             <p>
                By Jo Hyun-young
             </p>
