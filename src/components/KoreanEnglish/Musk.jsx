@@ -62,12 +62,11 @@ const Musk = () => {
               <p>
               -
             </p>
-            <p>
-              -
-            </p>
+         
             <p>The Neuralink logo and Elon Musk. (Reuters/Yonhap) </p>
+            <p>-</p>
             <p>
-      
+          
               The owner of Neuralink, a neuroscience company, Elon Musk the best CEO began the clinical test of implantation the computer chip into the human brain on 29th Jan.
             </p>
           
@@ -79,7 +78,7 @@ const Musk = () => {
           <div className="translation-col-K">
             <h4>Korean</h4>
             <div className="image-text-wrapper">
-              <img src={aiEssayImage2} alt="AI Essay B" className="translation-image" />
+              <img src={aiEssayImage2} alt="AI Essay B" className="translation-image-musk" />
             </div>
           </div>
 
@@ -89,6 +88,7 @@ const Musk = () => {
             <p>
               Musk uploaded to his SNS that the first patient had implanted the chip from Neuralink yesterday and the patient is recovering well.
             </p>
+            <p>-</p>
             <p>
               He mentioned the first product(implant chip) is called “Telepathy”. It enables to control all devices such as phones, computers, or any device with only thinking. 
             </p>
@@ -125,7 +125,7 @@ const Musk = () => {
           <div className="translation-col-K">
             <h4>Korean</h4>
             <div className="image-text-wrapper">
-              <img src={aiEssayImage3} alt="AI Essay B" className="translation-image" />
+              <img src={aiEssayImage3} alt="AI Essay B" className="translation-image-musk" />
             </div>
           </div>
 
@@ -178,9 +178,7 @@ const Musk = () => {
                <p>
                 The first implantation procedure of Neiralink was achieved since they got approved for clinical testing from the FDA eight month ago.  
                </p>
-                <p>
-                 -
-               </p>
+           
                <p>
                 The FDA offered permission last May for Neural’s chip implantation and clinical tests that help a lot of patients to overcome paralysis and nerve disorders. 
                 Neuralink got approved for recruiting for clinical tests last September.
@@ -193,7 +191,7 @@ const Musk = () => {
           <div className="translation-col-K">
             <h4>Korean</h4>
             <div className="image-text-wrapper">
-              <img src={aiEssayImage4} alt="AI Essay B" className="translation-image" />
+              <img src={aiEssayImage4} alt="AI Essay B" className="translation-image-musk2" />
             </div>
           </div>
 

@@ -305,8 +305,8 @@ strong {
 }
 
 .translation-image-eub {
-  width: 610px;
-  height: 700px;
+  width: 810px;
+  height: 750px;
   border: 1px solid #ddd;        /* light border */
   border-radius: 8px;            /* rounded corners */
   padding: 6px;                  /* spacing inside border */
@@ -315,7 +315,7 @@ strong {
 }
 
 .translation-image-eub2 {
-  width: 600px;
+  width: 700px;
   height: 800px;
   border: 1px solid #ddd;        /* light border */
   border-radius: 8px;            /* rounded corners */
@@ -327,6 +327,26 @@ strong {
 .translation-image-insta {
   width: 610px;
   height: 700px;
+  border: 1px solid #ddd;        /* light border */
+  border-radius: 8px;            /* rounded corners */
+  padding: 6px;                  /* spacing inside border */
+  background-color: #f9f9f9;     /* subtle background */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);  /* soft shadow */
+}
+
+.translation-image-musk {
+  width: 570px;
+  height: 700px;
+  border: 1px solid #ddd;        /* light border */
+  border-radius: 8px;            /* rounded corners */
+  padding: 6px;                  /* spacing inside border */
+  background-color: #f9f9f9;     /* subtle background */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);  /* soft shadow */
+}
+
+.translation-image-musk2 {
+  width: 800px;
+  height: 800px;
   border: 1px solid #ddd;        /* light border */
   border-radius: 8px;            /* rounded corners */
   padding: 6px;                  /* spacing inside border */
@@ -346,7 +366,7 @@ strong {
 
 .translation-image-trump1 {
   width: 610px;
-  height: 600px;
+  height: 650px;
   border: 1px solid #ddd;        /* light border */
   border-radius: 8px;            /* rounded corners */
   padding: 6px;                  /* spacing inside border */
@@ -356,7 +376,7 @@ strong {
 
 .translation-image-trump2 {
   width: 610px;
-  height: 550px;
+  height: 670px;
   border: 1px solid #ddd;        /* light border */
   border-radius: 8px;            /* rounded corners */
   padding: 6px;                  /* spacing inside border */
@@ -403,6 +423,7 @@ strong {
   background-color: #f9f9f9;     /* subtle background */
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);  /* soft shadow */
 }
+
 .translation-col-imf {
   font-size: 1rem;
 }

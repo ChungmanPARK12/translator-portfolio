@@ -11,7 +11,7 @@ const Kuj = () => {
             <div className="translation-col-K">
               <h4>Korean</h4>
               <div className="image-text-wrapper">
-                <img src={aiEssayImage} alt="AI Essay A" className="translation-image" />
+                <img src={aiEssayImage} alt="AI Essay A" className="translation-image-kuj" />
               </div>
             </div>
   
@@ -40,7 +40,8 @@ const Kuj = () => {
               <p>-</p>
               <p>-</p>
               <p>-</p>
-              
+              <p>-</p>
+              <p>-</p>
               <p>
                 South Korean Defense Minister Shin Won-sik and U.S. Secretary of Defense Lloyd Austin attend, via video link, a trilateral meeting of defense chiefs with Japanese Defense Minister Minoru Kihara at the Ministry of National Defense in Yongsan, Seoul, on Dec. 12.
                 The meeting marks the first standalone trilateral defense talks among South Korea, the United States, and Japan. (Yonhap) 
