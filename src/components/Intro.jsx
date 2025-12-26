@@ -1,11 +1,12 @@
 import './Intro.css';
+import flagImg from "../assets/flag.jpg";
 
 export default function Intro() {
   return (
     <section className="intro-section">
       <div className="intro-container">
         <div className="intro-image">
-          <img src="/flag.jpg" alt="Australian Flag" />
+          <img src={flagImg} alt="Australian Flag" />
         </div>
         <div className="intro-text">
           <h1>I Am a Passionate Translator</h1>
