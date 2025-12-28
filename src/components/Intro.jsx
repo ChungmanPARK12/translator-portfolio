@@ -9,18 +9,19 @@ export default function Intro() {
           <img src={flagImg} alt="Australian Flag" />
         </div>
         <div className="intro-text">
-          <h1>I Am a Passionate Translator</h1>
-          <p>Hi, I'm Chungman Park. I'm currently living in Adelaide and have been in Australia for over 7 years.</p>
+          <h1>Professional Translator</h1>
+          <p>Hi, I'm Chungman Park. I'm currently living in Adelaide and have been in Australia for over seven years.</p>
           <p>
             I specialize in Korean–English and English–Korean translation, and I genuinely enjoy the work I do.
           </p>
           <p>
             The list below shows my personal efforts and self-driven projects as I work toward becoming a professional translator.
           </p>
-          <p>
-            If you're looking for accurate, thoughtful translation, feel free to reach out via{' '}
-            <a href="mailto=your.email@example.com">your.email@example.com</a>.
+          <p className="contact-text">
+            If you're looking for accurate and thoughtful translation, feel free to reach out at<br />
+            <span className="email-text">parkssi12@gmail.com</span>
           </p>
+
         </div>
       </div>
     </section>

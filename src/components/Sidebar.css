@@ -1,40 +1,76 @@
 .sidebar {
-  width: 310px;             /* Restore default width */
-  height: 100vh;            /* Full screen height */
-  background-color: #111;   /* Or your preferred color */
+  width: 310px;
+  /* Restore default width */
+  height: 100vh;
+  /* Full screen height */
+  background-color: #111;
+  /* Or your preferred color */
   color: white;
   display: flex;
   flex-direction: column;
   align-items: center;
   padding: 2rem 1rem;
   box-sizing: border-box;
-  position: fixed;          /* Stay fixed on left */
+  position: fixed;
+  /* Stay fixed on left */
   top: 0;
   left: 0;
 }
 
-  
-  .profile-pic {
-    border-radius: 50%;
-    width: 100px;
-    height: 100px;
-  }
-  
-  .social-icons a {
-    margin: 0 0.5rem;
-    color: white;
-    font-size: 1.2rem;
-  }
+.profile-pic {
+  border-radius: 50%;
+  width: 100px;
+  height: 100px;
+}
 
-  .profile-pic {
-    width: 70%;
-    height: 200px;
-    border-radius: 50%;
-    box-shadow: 0 0 12px rgba(0, 0, 0, 0.1);
-    object-fit: cover;
-  }
+.profile-pic {
+  width: 70%;
+  height: 200px;
+  border-radius: 50%;
+  box-shadow: 0 0 12px rgba(0, 0, 0, 0.1);
+  object-fit: cover;
+}
 
+.social-icons {
+  margin-top: 10px;
+}
 
-  
-  
-  
+.social-icons a {
+  margin: 0 0.5rem;
+  color: white;
+  font-size: 2.5rem;
+  margin-top: 50px;
+}
+
+.social-icons a {
+  position: relative; /* tooltip 기준 */
+  transition: transform 0.15s ease, opacity 0.15s ease;
+}
+
+.social-icons a:hover {
+  transform: scale(1.1);
+  opacity: 0.9;
+  filter: drop-shadow(0 0 3px rgba(255, 255, 255, 0.8));
+} 
+
+.tooltip {
+  position: absolute;
+  bottom: -30px;
+  left: 50%;
+  transform: translateX(-50%);
+
+  background: #000;
+  color: #fff;
+  padding: 4px 8px;
+  font-size: 12px;
+  border-radius: 4px;
+  white-space: nowrap;
+
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity 0.15s ease;
+}
+
+.social-icons a:hover .tooltip {
+  opacity: 1;
+}
