@@ -1,7 +1,7 @@
 /* src/components/Portfolio.css */
 
 :root {
-  --card-w: 180px;
+  --card-w: 190px;
   --gap: 20px;
   --visible: 3;
 }
@@ -19,8 +19,9 @@
   box-sizing: border-box;
 }
 
+/* 제목 위치 */
 .portfolio h2 {
-  margin-left: 260px;
+  margin-left: 240px;
   font-size: 1.8rem;
   margin-bottom: 1.5rem;
 }
@@ -32,28 +33,25 @@
   display: flex;
   align-items: center;
   justify-content: center;
-  padding-left: 100px; 
+  padding-left: 40px;
 }
 
+/* 3장만 보이는 창 */
 .portfolio-viewport {
   width: calc(var(--visible) * var(--card-w) + (var(--visible) - 1) * var(--gap));
-  overflow: hidden;            
-  border-radius: 16px;         
+  overflow: hidden;
+  border-radius: 16px;
 }
 
+/* 실제 스크롤 레일 */
 .portfolio-scroll-wrapper {
   overflow-x: auto;
   overflow-y: hidden;
   scroll-behavior: smooth;
-  padding: 0.25rem 0 0.75rem;
+  padding: 0.25rem 0 0.9rem;
+  scrollbar-width: thin;
 }
 
-
-.portfolio-scroll-wrapper {
-  scrollbar-width: thin; /* Firefox */
-}
-
-/* Webkit scrollbar */
 .portfolio-scroll-wrapper::-webkit-scrollbar {
   height: 6px;
 }
@@ -69,19 +67,20 @@
   display: flex;
   flex-wrap: nowrap;
   gap: var(--gap);
-  padding-right: 0; 
+  padding-right: 0;
 }
 
+/* 카드 */
 .portfolio-item {
   flex: 0 0 var(--card-w);
-  min-height: 230px;
+  min-height: 250px;
   box-sizing: border-box;
 
   background: #fff;
   border: 1px solid rgba(0, 0, 0, 0.06);
   border-radius: 14px;
 
-  padding: 1.1rem 1.05rem;
+  padding: 1.05rem 1rem;
   box-shadow: 0 6px 18px rgba(0, 0, 0, 0.06);
 
   cursor: pointer;
@@ -94,32 +93,81 @@
   border-color: rgba(0, 0, 0, 0.12);
 }
 
+/* IELTS Academic Reading 텍스트 */
+.tag {
+  display: inline-block;
+  position: relative;
+  font-size: 0.8rem;
+  font-weight: 800;
+  letter-spacing: 0.08em;
+  color: #666;
+  margin: 0 0 0.7rem 0;
+}
+
+.tag::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  bottom: -6px;
+  width: 100%;
+  height: 2px;
+  background: linear-gradient(
+    90deg,
+    transparent,
+    rgba(0, 0, 0, 0.15),
+    transparent
+  );
+  opacity: 0.65;
+}
+
+.portfolio-item:hover .tag::after {
+  background: linear-gradient(
+    90deg,
+    transparent,
+    rgba(0, 0, 0, 0.35),
+    transparent
+  );
+  opacity: 1;
+}
+
+.tag.academic {
+  color: #5b5b5b;
+}
+.tag.news {
+  color: #555;
+}
+
+/* ✅ 샘플 타이틀 (겹치던 정의 삭제하고 여기 하나로 통일) */
 .portfolio-item h3 {
   font-size: 1rem;
   line-height: 1.25;
-  margin: 0 0 0.75rem;
-
+  margin: 1 0 0px;
   display: -webkit-box;
   -webkit-line-clamp: 2;
   -webkit-box-orient: vertical;
   overflow: hidden;
 }
 
-.portfolio-item p {
-  margin: 0.35rem 0 0;
+/* ✅ 장르 (겹치던 margin-top / margin-bottom / margin 한번만) */
+.genre {
+  display: inline-block;
+  margin: 0 0 10px;
+
+  font-size: 0.8rem;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: #4a4a4a;
 }
 
+/* ✅ 날짜 (subtitle도 한 번만) */
 .subtitle {
   font-size: 0.85rem;
   opacity: 0.7;
-  margin-bottom: 0.35rem;
+  margin: 10;
 }
 
-.desc {
-  font-size: 0.95rem;
-  opacity: 0.9;
-}
-
+/* 버튼 */
 .scroll-button {
   position: absolute;
 
@@ -149,9 +197,11 @@
 }
 
 .scroll-button.left {
-  left: 150px;
+  left: 130px;
 }
 
 .scroll-button.right {
-  right: 40px;
+  right: 90px;
 }
+
+
