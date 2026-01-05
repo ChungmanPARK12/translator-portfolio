@@ -19,7 +19,7 @@ const Sidebar = () => {
           <span className="tooltip">GitHub</span>
         </a>
         <a
-          href="https://www.linkedin.com/in/chungman-park-363703178"
+          href="https://www.linkedin.com/in/chris-park-363703178/"
           target="_blank"
           rel="noopener noreferrer"
         >
