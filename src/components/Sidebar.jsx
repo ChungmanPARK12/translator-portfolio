@@ -7,6 +7,8 @@ const Sidebar = () => {
     <div className="sidebar">
       <img src={profileImg} alt="Profile" className="profile-pic" />
       <h2>Chungman Park</h2>
+      <h2>(Chris Park)</h2>
+      
       <p>Translator & Developer<br />Adelaide, Australia</p>
 
       <div className="social-icons">

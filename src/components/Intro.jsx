@@ -10,7 +10,7 @@ export default function Intro() {
         </div>
         <div className="intro-text">
           <h1>Professional Translator</h1>
-          <p>Hi, I'm Chungman Park. I'm currently living in Adelaide and have been in Australia for over seven years.</p>
+          <p>Hi, I’m a passionate professional translator currently living in Adelaide, and I’ve been in Australia for over seven years.</p>
           <p>
             I specialize in Korean–English and English–Korean translation, and I genuinely enjoy the work I do.
           </p>
